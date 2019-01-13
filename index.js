@@ -90,3 +90,4 @@ class NameGenerator {
 }
 
 const name = new NameGenerator();
+console.log(name);
